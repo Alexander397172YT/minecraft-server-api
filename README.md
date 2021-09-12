@@ -12,3 +12,5 @@ status('www.example.com', 25565, callback => {
     console.log(callback)
 })
 ```
+___
+##### If you find a bug or a flaw, then write to me in Discord `Alexander39#7172`
