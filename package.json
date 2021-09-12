@@ -1,6 +1,6 @@
 {
   "name": "minecraft-server-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Minecraft Server Status API",
   "main": "index.js",
   "scripts": {
