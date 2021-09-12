@@ -4,11 +4,21 @@
   "description": "Minecraft Server Status API",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alexander39",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander397172YT/minecraft-server-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexander397172YT/minecraft-server-api/issues"
+  },
+  "homepage": "https://github.com/Alexander397172YT/minecraft-server-api#readme",
+  "author": "alexander397172",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "keywords": ["minecraft", "server", "status", "api"]
 }
