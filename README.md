@@ -1,6 +1,6 @@
 ## Installation
 ```cmd
-npm install discord-battleship
+npm install minecraft-server-api
 ```
 ## Getting Started
 Make sure you have installed the latest stable version of [Node.js](https://nodejs.org/en/)
